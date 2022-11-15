@@ -1,3 +1,2 @@
-test
-// cloud upload Git Repository
+https://kwangdduk.azurewebsites.net/
 
